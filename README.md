@@ -1,1 +1,2 @@
 # stepik-learn
+Hello, GIT!
